@@ -1,0 +1,18 @@
+{
+  "name": "dating-app",
+  "version": "1.0.0",
+  "description": "It's a dating application that is dedicated for certain groups of our society.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashvinrockz",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "Dating-App"
+  },
+  "keywords": [
+    "Dating"
+  ]
+}
